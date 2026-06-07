@@ -1,0 +1,8 @@
+.venv/
+.idea/
+data/raw/
+data/processed/
+__pycache__/
+*.pt
+*.pth
+*.zip
