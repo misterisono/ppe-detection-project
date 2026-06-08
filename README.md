@@ -13,7 +13,7 @@
 
 1. Клонирование репозитория:
 ```bash
-git clone <твой_репозиторий>
+git clone https://github.com/misterisono/ppe-detection-project.git
 cd ppe-detection-project
 pip install -r requirements.txt
 python main.py --model yolo
