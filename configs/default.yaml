@@ -1,0 +1,21 @@
+seed: 42
+
+yolov8n_baseline:
+  epochs: 15
+  batch_size: 16
+  imgsz: 640
+
+yolov8m_main:
+  epochs: 30
+  batch_size: 16
+  imgsz: 640
+
+yolov5s:
+  epochs: 15
+  batch_size: 16
+  imgsz: 640
+
+detr:
+  epochs: 15
+  batch_size: 8
+  imgsz: 640

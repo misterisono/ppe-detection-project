@@ -1,0 +1,32 @@
+[
+    {
+        "model": "YOLOv8n (Baseline)",
+        "mAP": 0.875,
+        "precision": 0.878,
+        "recall": 0.817
+    },
+    {
+        "model": "YOLOv8m (Main)",
+        "mAP": 0.868,
+        "precision": 0.863,
+        "recall": 0.842
+    },
+    {
+        "model": "YOLOv5s",
+        "mAP": 0.85,
+        "precision": 0.865,
+        "recall": 0.8
+    },
+    {
+        "model": "RT-DETR (Transformer)",
+        "mAP": 0.871,
+        "precision": 0.863,
+        "recall": 0.836
+    },
+    {
+        "model": "Faster R-CNN",
+        "mAP": 0.72,
+        "precision": 0.75,
+        "recall": 0.68
+    }
+]

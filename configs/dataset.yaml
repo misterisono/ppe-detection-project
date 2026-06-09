@@ -1,8 +1,7 @@
-# C:\Practicum\configs\dataset.yaml
 path: C:/Practicum/data/processed
-
 train: images/train
 val: images/val
+test: images/test
 
 nc: 3
 names:
