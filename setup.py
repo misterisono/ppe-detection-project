@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='ML Pipeline for PPE Detection (Hardhats and Vests)',
-    author='Your Name',
+    author='Mister',
     license='MIT',
 )
